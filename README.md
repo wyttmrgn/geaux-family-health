@@ -11,7 +11,7 @@ This is a design preview, not the clinic's live website. The page carries a `noi
 | Address, phone, hours, 4.6 rating (42 reviews) | Google Business listing |
 | Email, "infancy through geriatric", 98% recommend (60 reviews) | Facebook page |
 | Fax number | NPI registry listing |
-| Provider names (Tiffany Terra, FNP and Angie Belanger, FNP) | WebMD, Vitals, Tebra and patient reviews |
+| Providers (Tiffany Terra, FNP and Angela Belanger, FNP) | Tebra practice listing, which shows these two as the practice's providers; also WebMD and Vitals. Patients call Angela "Angie" in reviews. |
 | Review excerpts | Google reviews, shortened, first name and last initial only |
 | Accessibility and payment notes | Google Business listing |
 
@@ -36,7 +36,7 @@ Stand-ins from Unsplash (free licence), to be replaced with the clinic's own pho
 - `img/care-adult.jpg` (photo-1631815590058-860e4f83c1e8)
 - `img/care-senior.jpg` (photo-1765896387387-0538bc9f997e)
 
-The provider section has no portraits yet. Headshots of Tiffany and Angie would slot in beside their names.
+The provider section has no portraits yet. Headshots of Tiffany and Angela would slot in beside their names.
 
 ## Logo files
 
